@@ -6,9 +6,19 @@ Initial Function()
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Initial Security()
 {
  //Sample Code
+=======
+feaature2()
+{
+  //Sample Code for Feature 2
+}
+
+security patch
+{
+Adding the security patch for feature 2
 }
 
 =======
